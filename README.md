@@ -5,7 +5,11 @@
   <!-- iOS: Zero Waste -->
   <td valign="top" valign="center">
     <h2><a href="https://github.com/belekomurzakov/zero-waste-ios">iOS: Zero Waste</a></h2>
-    <img src="https://repository-images.githubusercontent.com/303733323/fd001c1f-4d11-4322-af1b-c337a79ae7f0" alt="Repository image" width="400"/>
+    <p align="center">
+    <img src="https://user-images.githubusercontent.com/89274213/213867664-9af25e10-ac2a-499e-8989-309ca02d4fcb.png" alt="Repository image" width="100" height="200"/>
+    <img src="https://user-images.githubusercontent.com/89274213/213867669-4de1d94a-43f3-4997-9b64-6d6e16e21137.png" alt="Repository image" width="100" height="200"/>
+    <img src="https://user-images.githubusercontent.com/89274213/213867675-a47fb223-8594-4b61-9af6-51edece482f5.png" alt="Repository image" width="100" height="200"/>     
+    </p>
     <br/>
     <br/>
     <details>
@@ -20,8 +24,11 @@
   <!-- Android: Zero Waste -->
   <td valign="top">
     <h2><a href="https://github.com/belekomurzakov/zero-waste-android">Android: Zero Waste</a></h2>
-    <img src="https://repository-images.githubusercontent.com/303731885/a11a6e80-0d79-11eb-82f7-250f255083ce" alt="Repository image" width="400"/>
-    <br/>
+    <p align="center">
+    <img src="https://user-images.githubusercontent.com/89274213/213871449-4e588e3d-8e0d-411a-a328-e5675f8000f6.png" alt="Repository image" width="95" height="200"/>
+    <img src="https://user-images.githubusercontent.com/89274213/213871454-7199a955-2443-4c5c-a75e-f3479f9ca7ba.png" alt="Repository image" width="95" height="200"/>
+    <img src="https://user-images.githubusercontent.com/89274213/213871446-dbed575e-d5b4-4bfc-833a-dd28ec478caa.png" alt="Repository image" width="95" height="200"/>     
+    </p>    <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
@@ -37,9 +44,11 @@
   <!-- iOS: Crypto Portfolio -->
   <td width="50%" valign="top">
     <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-ios">iOS: Crypto Portfolio</a></h2>
+    <p align="center">
     <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/analytics.imageset/analytics.png" alt="Repository image" width="100" height="200"/>
     <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/price.imageset/price.png" alt="Repository image" width="100" height="200"/>
     <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/add.imageset/add.png" alt="Repository image" width="100" height="200"/>
+    </p>
     <br/>
     <br/>
     <details>
@@ -54,9 +63,11 @@
     <!-- Android: Crypto Portfolio -->
   <td valign="top">
     <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-android">Android: Crypto Portfolio</a></h2>
+    <p align="center">
     <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/analytics.png" alt="Repository image" width="100" height="200"/>
     <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/prices.png" alt="Repository image" width="100" height="200"/>
-    <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/add_crypto.png" alt="Repository image" width="100" height="200"/> 
+    <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/add_crypto.png" alt="Repository image" width="100" height="200"/>
+     </p>
     <br/>
     <br/>
     <details>
