@@ -14,7 +14,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Sample car sales and service application. Pulsar is a fictitious electric car manufacturer company. This application helps Pulsar to sell cars on-site, and through their customer-facing website. Event-driven patterns allow to build loosely coupled integrations using multiple programming languages and systems. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with the connected compute and runtime capabilities of the Salesforce Platform.</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>rest-api</code>, <code>realm</code>, <code>mapkit</code>, <code>swift-ui</code>, <code>coreml</code>
@@ -32,7 +32,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples demonstrating Apex best practices. Each Recipe demonstrates how to code a specific common task while adhering to best practices. The UI allows you to browse the code, associated tests, and documentation about the recipes all in a convenient, in-org browser.</p>
+      <p>A waste management mobile app, that helps users locate the nearest waste disposal options on the map, according to specific waste types. Keep track of your sorting history and take advantage of the cutting-edge machine learning feature that can identify objects, making the most out of your waste and contributing to a cleaner environment.</p>
       <b>Features</b><br/>
       <p>
 <code>android</code>, <code>room</code>, <code>google-maps</code>, <code>dependency-injection</code>, <code>datastore</code>, <code>koin</code>, <code>ml-kit</code>
@@ -53,7 +53,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples for Lightning Web Components. Each recipe demonstrates how to code a specific task in the fewest lines of code possible, while following best practices. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>rest-api</code>, <code>school-project</code>, <code>coredata</code>, <code>swiftui</code>, <code>swiftui-charts</code>
@@ -72,7 +72,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Experience Cloud, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>school-project</code>, <code>mvvm-android</code>, <code>room-database</code>
@@ -88,7 +88,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Ready to Fly is a Slack sample app that manages travel approvals. The app showcases the power of Slack when integrated with the Salesforce Platform and lets you view and modify Salesforce data directly from a custom Slack app.</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>python</code>, <code>bootstrap</code>, <code>flask</code>, <code>api-rest</code>, <code>sqlite3</code>      
@@ -103,7 +103,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Sample real estate application. Dreamhouse is a fictitious real estate company. This application helps Dreamhouse brokers manage their properties and their customers. Brokers can also use the application on the Salesforce mobile app to help manage their property portfolio. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with Lightning Components.</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>python</code>, <code>school-project</code>, <code>flask</code>
@@ -119,7 +119,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of code examples to help you replace Visualforce pages with Lightning Web Components. Each example shows a typical Visualforce pattern and its equivalent LWC implementation. Each example also links right to the Visualforce or LWC code in GitHub.</p>
+      <p></p>
       <b>Features</b><br/>
       <p>
         <code>java</code>, <code>school-project</code>, <code>greenfoot</code>
