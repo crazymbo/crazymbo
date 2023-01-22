@@ -14,7 +14,7 @@
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p></p>
+      <p>This iOS app helps users sort waste efficiently by showing nearest public containers on map, tracking history, sorting by category or ML image recognition, gamification with levels and ranks.</p>
       <b>Features</b><br/>
       <p>
         <code>rest-api</code>, <code>realm</code>, <code>mapkit</code>, <code>swift-ui</code>, <code>coreml</code>
