@@ -6,9 +6,9 @@
       <td valign="top" valign="center">
          <h2><a href="https://github.com/belekomurzakov/zero-waste-ios">iOS: Zero Waste</a></h2>
          <p align="center">
-            <img src="https://user-images.githubusercontent.com/89274213/213867664-9af25e10-ac2a-499e-8989-309ca02d4fcb.png" alt="Repository image" width="100" height="200"/>
-            <img src="https://user-images.githubusercontent.com/89274213/213867669-4de1d94a-43f3-4997-9b64-6d6e16e21137.png" alt="Repository image" width="100" height="200"/>
-            <img src="https://user-images.githubusercontent.com/89274213/213867675-a47fb223-8594-4b61-9af6-51edece482f5.png" alt="Repository image" width="100" height="200"/>     
+            <img src="https://user-images.githubusercontent.com/89274213/213867664-9af25e10-ac2a-499e-8989-309ca02d4fcb.png" alt="Repository image" width="105" height="200"/>
+            <img src="https://user-images.githubusercontent.com/89274213/213867669-4de1d94a-43f3-4997-9b64-6d6e16e21137.png" alt="Repository image" width="105" height="200"/>
+            <img src="https://user-images.githubusercontent.com/89274213/213867675-a47fb223-8594-4b61-9af6-51edece482f5.png" alt="Repository image" width="105" height="200"/>     
          </p>
          <br/>
          <br/>
@@ -46,9 +46,9 @@
       <td width="50%" valign="top">
          <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-ios">iOS: Crypto Portfolio</a></h2>
          <p align="center">
-            <img width="100" height="200" alt="analytics" src="https://user-images.githubusercontent.com/123120438/214157981-732dc827-3d59-4ce8-95b5-175b1186149b.png">
-            <img width="100" height="200" alt="portfolio" src="https://user-images.githubusercontent.com/123120438/214157991-ff3cdd3d-db9a-48af-b350-bd5edc73c9db.png">
-            <img width="100" height="200" alt=list" src="https://user-images.githubusercontent.com/123120438/214157994-8f5d6247-b526-4ed4-a6ad-599f9739c1fa.png">
+            <img width="105" height="200" alt="analytics" src="https://user-images.githubusercontent.com/123120438/214157981-732dc827-3d59-4ce8-95b5-175b1186149b.png">
+            <img width="105" height="200" alt="portfolio" src="https://user-images.githubusercontent.com/123120438/214157991-ff3cdd3d-db9a-48af-b350-bd5edc73c9db.png">
+            <img width="105" height="200" alt=list" src="https://user-images.githubusercontent.com/123120438/214157994-8f5d6247-b526-4ed4-a6ad-599f9739c1fa.png">
          </p>
          <br/>
          <br/>
