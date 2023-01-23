@@ -54,7 +54,7 @@
          <br/>
          <details>
             <summary><b>Description and Features</b></summary>
-            <p></p>
+            <p>Introducing Crypto Portfolio, the iOS mobile app designed to help manage and track your cryptocurrency investments. Developed as part of the EBC-VI1 - Application Development for iOS course, this app allows you to easily view your portfolio performance and make informed decisions on your crypto trades.</p>
             <b>Features</b><br/>
             <p>
                <code>rest-api</code>, <code>school-project</code>, <code>coredata</code>, <code>swiftui</code>, <code>swiftui-charts</code>
@@ -65,9 +65,9 @@
       <td valign="top">
          <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-android">Android: Crypto Portfolio</a></h2>
          <p align="center">
-            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/analytics.png" alt="Repository image" width="100" height="200"/>
-            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/prices.png" alt="Repository image" width="100" height="200"/>
-            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/add_crypto.png" alt="Repository image" width="100" height="200"/>
+            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/analytics.png" alt="Repository image" width="95" height="200"/>
+            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/prices.png" alt="Repository image" width="95" height="200"/>
+            <img src="https://github.com/belekomurzakov/crypto-portfolio-android/blob/master/app/src/main/res/drawable/add_crypto.png" alt="Repository image" width="95" height="200"/>
          </p>
          <br/>
          <br/>
@@ -75,9 +75,7 @@
             <summary><b>Description and Features</b></summary>
             <p></p>
             <b>Features</b><br/>
-            <p>
-               <code>school-project</code>, <code>mvvm-android</code>, <code>room-database</code>
-            </p>
+            <p><code>school-project</code>, <code>mvvm-android</code>, <code>room-database</code></p>
          </details>
       </td>
    <tr>
