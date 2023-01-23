@@ -45,9 +45,9 @@
   <td width="50%" valign="top">
     <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-ios">iOS: Crypto Portfolio</a></h2>
     <p align="center">
-    <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/analytics.imageset/analytics.png" alt="Repository image" width="100" height="200"/>
-    <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/price.imageset/price.png" alt="Repository image" width="100" height="200"/>
-    <img src="https://github.com/belekomurzakov/crypto-portfolio-ios/blob/master/Assets.xcassets/add.imageset/add.png" alt="Repository image" width="100" height="200"/>
+    <img width="100" height="200" alt="analytics" src="https://user-images.githubusercontent.com/123120438/214157981-732dc827-3d59-4ce8-95b5-175b1186149b.png">
+<img width="100" height="200" alt="portfolio" src="https://user-images.githubusercontent.com/123120438/214157991-ff3cdd3d-db9a-48af-b350-bd5edc73c9db.png">
+<img width="100" height="200" alt=list" src="https://user-images.githubusercontent.com/123120438/214157994-8f5d6247-b526-4ed4-a6ad-599f9739c1fa.png">
     </p>
     <br/>
     <br/>
