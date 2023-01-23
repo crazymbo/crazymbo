@@ -87,7 +87,7 @@
          <br/>
          <details>
             <summary><b>Description and Features</b></summary>
-            <p></p>
+            <p>Crypto Portfolio is a web application that helps you manage and track your cryptocurrency investments. Developed as a course project, it offers a user-friendly interface to view your portfolio performance, track market trends and make informed trades. It also includes security features to keep your data safe.</p>
             <b>Features</b><br/>
             <p>
                <code>python</code>, <code>bootstrap</code>, <code>flask</code>, <code>api-rest</code>, <code>sqlite3</code>      
@@ -118,7 +118,7 @@
          <br/>
          <details>
             <summary><b>Description and Features</b></summary>
-            <p></p>
+            <p>Introducing Battleship, the classic game of strategy and luck built for my EBC-PJ - Java Programming Language course. This game features a user-friendly interface, two-player mode and the ability to save and load games. Test your naval tactics and sink your opponent's ships with Battleship</p>
             <b>Features</b><br/>
             <p>
                <code>java</code>, <code>school-project</code>, <code>greenfoot</code>
