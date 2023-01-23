@@ -82,7 +82,7 @@
       <!-- Web: Crypto Portfolio -->
       <td valign="top">
          <h2><a href="https://github.com/belekomurzakov/crypto-portfolio-web">Web: Crypto Portfolio</a></h2>
-         <img src="https://repository-images.githubusercontent.com/457704692/333b906e-aa2a-421c-92cd-deef621b7dce" alt="Repository image" width="400"/>
+         <img width="400" alt="Screenshot 2023-01-24 at 0 14 38" src="https://user-images.githubusercontent.com/123120438/214175085-ff6a578c-1a3d-458b-921e-123ea51e0c93.png">
          <br/>
          <br/>
          <details>
