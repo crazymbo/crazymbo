@@ -113,7 +113,7 @@
       <!-- Battleship -->
       <td valign="top">
          <h2><a href="https://github.com/belekomurzakov/battleship">Battleship Game</a></h2>
-         <img src="https://repository-images.githubusercontent.com/272735494/8274c700-b068-11ea-9e3d-1442e064337e" alt="Repository image" width="400"/>
+         <img src="https://repository-images.githubusercontent.com/161481406/87057b80-99e7-11ea-8731-13a8b65a3860" alt="Repository image" width="400"/>
          <br/>
          <br/>
          <details>
