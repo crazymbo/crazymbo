@@ -73,7 +73,7 @@
          <br/>
          <details>
             <summary><b>Description and Features</b></summary>
-            <p></p>
+            <p>Crypto Portfolio, the Android mobile application designed to help you keep track of your cryptocurrency investments. Built as a project for EBC-VA1 - Application Development for Android course, this app makes it easy to monitor your portfolio, stay informed with real-time market updates and make smart trades.</p>
             <b>Features</b><br/>
             <p><code>school-project</code>, <code>mvvm-android</code>, <code>room-database</code></p>
          </details>
