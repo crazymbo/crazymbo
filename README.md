@@ -94,35 +94,4 @@
             </p>
          </details>
       </td>
-      <!-- Brigadier agency -->
-      <td valign="top">
-         <h2><a href="https://github.com/belekomurzakov/brigadier-agency">Brigadier Agency</a></h2>
-         <img src="https://repository-images.githubusercontent.com/161481406/87057b80-99e7-11ea-8731-13a8b65a3860" alt="Repository image" width="400"/>
-         <br/>
-         <br/>
-         <details>
-            <summary><b>Description and Features</b></summary>
-            <p></p>
-            <b>Features</b><br/>
-            <p>
-               <code>python</code>, <code>school-project</code>, <code>flask</code>
-            </p>
-         </details>
-      </td>
-   <tr>
-      <!-- Battleship -->
-      <td valign="top">
-         <h2><a href="https://github.com/belekomurzakov/battleship">Battleship Game</a></h2>
-         <img src="https://repository-images.githubusercontent.com/161481406/87057b80-99e7-11ea-8731-13a8b65a3860" alt="Repository image" width="400"/>
-         <br/>
-         <br/>
-         <details>
-            <summary><b>Description and Features</b></summary>
-            <p>Introducing Battleship, the classic game of strategy and luck built for my EBC-PJ - Java Programming Language course. This game features a user-friendly interface, two-player mode and the ability to save and load games. Test your naval tactics and sink your opponent's ships with Battleship</p>
-            <b>Features</b><br/>
-            <p>
-               <code>java</code>, <code>school-project</code>, <code>greenfoot</code>
-            </p>
-         </details>
-      </td>
 </table>
