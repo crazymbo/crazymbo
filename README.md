@@ -39,7 +39,6 @@
 
 #
 
-### 🏋🏼 Projects
 <table align="center">
    <tr>
       <!-- iOS: Zero Waste -->
