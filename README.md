@@ -1,5 +1,5 @@
 ### 🏅 Certifications
-<p align="center">
+<p align="left">
    <a href="https://trailhead.salesforce.com/en/credentials/verification/">   
    <img src="https://user-images.githubusercontent.com/123120438/214281411-223996d7-d872-4d6a-83f2-6181d09a74b6.png" alt="admin" width="100"/>
    </a>
@@ -20,7 +20,7 @@
 #
 
 ### 🧰 Languages and Tools
-<p align="center">
+<p align="left">
 <img alt="Salesforce" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
 <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -37,9 +37,9 @@
 <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
-#
+<br>
 
-<table align="center">
+<table align="left">
    <tr>
       <!-- iOS: Zero Waste -->
       <td valign="top" valign="center">
